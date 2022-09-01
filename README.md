@@ -17,3 +17,4 @@
 - [UI 라이브러리 Modal 컴포넌트 20220718](https://velog.io/@kt5680608/UI-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-Modal-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [UI 라이브러리 RollingText 컴포넌트 20220718](https://velog.io/@kt5680608/UI-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-RollingText-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [UI 라이브러리 Skeleton 컴포넌트 20220719](https://velog.io/@kt5680608/UI-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-Skeleton-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
+- [웹브라우저에서 gyro sensor 사용하기 20220901](https://velog.io/@kt5680608/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-gyro-sensor-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
